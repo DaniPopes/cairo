@@ -138,7 +138,7 @@ syn = { version = "2.0.61", features = ["full", "extra-traits"] }
 test-case = "3.3.1"
 test-case-macros = "3.3.1"
 test-log = "0.2.16"
-thiserror = "1.0.60"
+thiserror = "2"
 time = { version = "0.3.36", features = [
     "formatting",
     "macros",
